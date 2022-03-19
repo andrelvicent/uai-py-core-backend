@@ -1,2 +1,2 @@
 const variavel = 54
-console.log(variavel)asdf
+console.log(variavel)asdfasdfasdf
